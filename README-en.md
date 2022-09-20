@@ -12,4 +12,4 @@
 ## 🎁 Included in
 - Json Model File (`.json`)
 - Gltf Model File (`.gltf`)
-- Texture ((`.png`))
+- Texture (`.png`)
