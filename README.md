@@ -8,5 +8,6 @@
 - テクスチャの高解像度化やモデルの改変を含むすべての改変は認めません。
 
 ## 🎁 含まれるもの
-- モデル (assets/Switch.json)
-- テクスチャ (assets/switch.png)
+- Jsonモデル (`.json`)
+- GLTFモデル (`.gltf`)
+- テクスチャ (`.png`)
