@@ -1,4 +1,4 @@
-# Swich JSON Model
+# Nintendo Swich Model
 [Change in English](https://github.com/wanko-zushi/Switch-Model/blob/master/README-en.md)
 
 ```画像をクリックすると3D表示できます。(外部サイト)```
