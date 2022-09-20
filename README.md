@@ -23,5 +23,13 @@
 2. Assetsにあるファイルをクリック
 3. クリックすると自動的にダウンロードされます。(ダブルクリック等にお気を付けください。)
 
+## その他
+Minecraft JavaEdition向けにリソースパックの制作を行っております。
+
+オーダーメイドも可能ですので、リソースパックやモデルの製作依頼についての詳細は[わんこずし公式サイト](https://wanko-zushi.com)からご確認ください。
+
 ##
+
+##
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nd/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nd/4.0/">クリエイティブ・コモンズ 表示 - 改変禁止 4.0 国際 ライセンス</a>の下に提供されています。
