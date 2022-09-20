@@ -1,4 +1,4 @@
-# Swich JSON Model
+# Nintendo Swich Model
  * Translated by [DeepL](https://deepl.com)
  
  ```Click on the image for a 3D view. (External site)```
