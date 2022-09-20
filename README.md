@@ -1,5 +1,5 @@
 # Swich JSON Model
-[Switch Language (in English)](https://github.com/wanko-zushi/Switch-Model/blob/master/README-en.md)
+[Change in English](https://github.com/wanko-zushi/Switch-Model/blob/master/README-en.md)
 
 ### 🛑 これはリソースパックではありません。
 - Minecraftのリソースパックに使用する場合、リソースパックに関する基本知識をお持ち方が作業することをお勧めします。
